@@ -44,16 +44,19 @@ html, body {
 
 /* Heading */
 .section-heading {
-  font-family: var(--font-display);
-  font-weight: 900;
-  font-size: clamp(28px, 5vw, 42px);
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  background: linear-gradient(135deg, var(--fnl-cyan), var(--fnl-magenta));
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 56px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  line-height: 1.1;
+  color: var(--fnl-white);
+}
+
+.section-heading span {
+  background: linear-gradient(90deg, var(--fnl-cyan), var(--fnl-magenta));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
-  margin-bottom: 8px;
 }
 
 .section-subheading {
