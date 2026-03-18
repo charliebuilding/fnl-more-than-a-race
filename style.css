@@ -110,6 +110,14 @@ html, body {
     padding: 40px 0;
   }
 
+  .section-heading {
+    font-size: 36px;
+  }
+
+  .section-heading span {
+    white-space: nowrap;
+  }
+
   .about-features {
     grid-template-columns: 1fr;
     gap: 15px;
