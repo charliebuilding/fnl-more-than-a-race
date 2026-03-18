@@ -1,12 +1,17 @@
 /* FNL Brand Tokens */
 :root {
-  --fnl-deep-black: #0a0a0a;
-  --fnl-black: #111111;
-  --fnl-cyan: #00e5ff;
-  --fnl-magenta: #ff2d78;
-  --fnl-yellow: #ffe600;
-  --fnl-white: #ffffff;
-  --fnl-light-grey: #b0b0b0;
+  --fnl-neon-green: #39FF14;
+  --fnl-electric-pink: #FF10F0;
+  --fnl-deep-black: #0A0A0A;
+  --fnl-charcoal: #1A1A1A;
+  --fnl-neon-orange: #FF6B00;
+  --fnl-electric-blue: #00D4FF;
+  --fnl-purple-glow: #9D00FF;
+  --fnl-white: #FFFFFF;
+  --fnl-light-grey: #B0B0B0;
+  --fnl-cyan: #00FFD1;
+  --fnl-magenta: #FF006B;
+  --fnl-yellow: #FFFF00;
   --font-display: 'Orbitron', sans-serif;
   --font-body: 'Space Grotesk', sans-serif;
   --font-detail: 'Inter', sans-serif;
